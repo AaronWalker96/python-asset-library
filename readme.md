@@ -1,6 +1,6 @@
 # Python Asset Library
 
-A collection of random python scripts..
+A collection of random python scripts...
 
 Asset | Description | Output
 --- | --- | ---
